@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Southwest Flordia","Roleplay Environment"];
+const statusMessages = ["VXY STOCK","vxy stock"];
 
 
 let currentIndex = 0;
