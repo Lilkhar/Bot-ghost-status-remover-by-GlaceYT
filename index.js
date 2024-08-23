@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["VXY STOCK","vxy stock"];
+const statusMessages = ["BUY PAID SPOOF FOR ONLY 15.99","USE FREE SPOOF INSTANT"];
 
 
 let currentIndex = 0;
