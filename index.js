@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["BUY PAID SPOOF FOR ONLY 15.99","USE FREE SPOOF INSTANT"];
+const statusMessages = ["1 Boost = SVE + E/A","2 Boost = BVE + E/A"];
 
 
 let currentIndex = 0;
